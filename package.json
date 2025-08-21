@@ -1,12 +1,12 @@
 {
-  "name": "tlator-react-starter",
+  "name": "tlator-react-acrylic",
   "private": true,
-  "version": "0.0.3",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview --port 5173"
   },
   "dependencies": {
     "react": "^18.3.1",
